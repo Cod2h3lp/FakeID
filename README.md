@@ -8,7 +8,7 @@ alt="accessibility text">
 # Compilation and execution with classpath flag
 
 <p><b> 
- $ cd src/	
+ $ cd src/ <br>
  $ javac -classpath .;json-20210307.jar FakeID.java <br>
  $ java -classpath .;json-20210307.jar FakeID </b></p>
 
